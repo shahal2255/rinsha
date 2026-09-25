@@ -1,0 +1,6 @@
+{
+  "name": "Yamama Shawaya",
+  "description": "Authentic Arabic grilled chicken and special flavored rice restaurant located on Calicut Road, Angadipuram, Perinthalmanna, Kerala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
